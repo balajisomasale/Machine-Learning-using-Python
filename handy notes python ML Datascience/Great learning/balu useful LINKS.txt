@@ -1,0 +1,15 @@
+Official Python Documentation : https://docs.python.org/3.6/
+The Python Tutorial : https://docs.python.org/3/tutorial/
+==============IMPORTANT===============
+
+NumPy basics:
+https://docs.scipy.org/doc/numpy/user/basics.html
+
+
+10 minutes to pandas : 
+https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+
+
+Q n A Stackoverflow:
+https://stackoverflow.com/questions/tagged/python
+
